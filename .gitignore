@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.npm-cache/
+.vite/
+*.log
+dev-server.err
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
